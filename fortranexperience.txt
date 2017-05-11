@@ -1,0 +1,3 @@
+It was a different experience to code in fortran, It reminded me when I was programming in C a few years ago.
+I don't really like these kind of languages because even if they perform well, they aren't not very documented and are
+old.
